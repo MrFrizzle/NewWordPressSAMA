@@ -23447,3 +23447,739 @@
 [20-Dec-2019 14:10:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
 [20-Dec-2019 14:10:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
 [20-Dec-2019 14:10:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:12:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:12:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:12:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:12:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:12:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:12:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:12:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:12:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:12:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:12:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:12:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:12:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:14:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:14:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:14:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:14:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:14:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:14:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:14:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:14:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:14:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:14:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:14:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:14:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:16:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:16:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:16:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:16:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:16:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:16:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:16:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:16:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:16:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:16:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:16:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:16:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:18:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:18:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:18:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:18:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:18:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:18:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:18:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:18:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:18:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:18:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:18:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:18:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:20:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:20:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:20:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:20:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:20:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:20:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:20:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:20:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:20:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:20:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:20:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:20:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:22:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:22:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:22:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:22:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:22:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:22:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:22:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:22:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:22:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:22:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:22:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:22:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:24:22 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:24:22 UTC] PHP Stack trace:
+[20-Dec-2019 14:24:22 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:24:22 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:24:22 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:24:22 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:24:22 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:24:22 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:24:22 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:24:22 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:24:22 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:24:22 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:24:26 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:24:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:24:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:0
+[20-Dec-2019 14:24:26 UTC] PHP   2. require() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:17
+[20-Dec-2019 14:24:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-blog-header.php:19
+[20-Dec-2019 14:24:26 UTC] PHP   4. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/template-loader.php:13
+[20-Dec-2019 14:24:26 UTC] PHP   5. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:24:26 UTC] PHP   6. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:24:26 UTC] PHP   7. WC_AJAX::do_wc_ajax() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:24:26 UTC] PHP   8. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:87
+[20-Dec-2019 14:24:26 UTC] PHP   9. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:24:26 UTC] PHP  10. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:24:26 UTC] PHP  11. WC_AJAX::get_refreshed_fragments() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:24:26 UTC] PHP  12. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:198
+[20-Dec-2019 14:24:26 UTC] PHP  13. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:24:26 UTC] PHP  14. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:24:26 UTC] PHP  15. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:24:26 UTC] PHP  16. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:24:26 UTC] PHP  17. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:24:26 UTC] PHP  18. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:24:26 UTC] PHP  19. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:24:26 UTC] PHP  20. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:24:26 UTC] PHP  21. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:24:26 UTC] PHP  22. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:26:27 UTC] PHP Stack trace:
+[20-Dec-2019 14:26:27 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:26:27 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:26:27 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:26:27 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:26:27 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:26:27 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:26:27 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:26:27 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:26:27 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:26:27 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:26:27 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:26:27 UTC] PHP Stack trace:
+[20-Dec-2019 14:26:27 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:26:27 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:26:27 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:26:27 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:26:27 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:26:27 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:26:27 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:26:27 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:26:27 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:26:27 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:27:32 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:27:32 UTC] PHP Stack trace:
+[20-Dec-2019 14:27:32 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:27:32 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:27:32 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:27:32 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:27:32 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:27:32 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:27:32 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:27:32 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:27:32 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:27:32 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:27:33 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:27:33 UTC] PHP Stack trace:
+[20-Dec-2019 14:27:33 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:27:33 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:27:33 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:27:33 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:27:33 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:27:33 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:27:33 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:27:33 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:27:33 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:27:33 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:27:47 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:27:47 UTC] PHP Stack trace:
+[20-Dec-2019 14:27:47 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:0
+[20-Dec-2019 14:27:47 UTC] PHP   2. require() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:17
+[20-Dec-2019 14:27:47 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-blog-header.php:19
+[20-Dec-2019 14:27:47 UTC] PHP   4. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/template-loader.php:13
+[20-Dec-2019 14:27:47 UTC] PHP   5. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:27:47 UTC] PHP   6. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:27:47 UTC] PHP   7. WC_AJAX::do_wc_ajax() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:27:47 UTC] PHP   8. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:87
+[20-Dec-2019 14:27:47 UTC] PHP   9. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:27:47 UTC] PHP  10. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:27:47 UTC] PHP  11. WC_AJAX::get_refreshed_fragments() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:27:47 UTC] PHP  12. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:198
+[20-Dec-2019 14:27:47 UTC] PHP  13. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:27:47 UTC] PHP  14. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:27:47 UTC] PHP  15. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:27:47 UTC] PHP  16. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:27:47 UTC] PHP  17. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:27:47 UTC] PHP  18. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:27:47 UTC] PHP  19. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:27:47 UTC] PHP  20. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:27:47 UTC] PHP  21. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:27:47 UTC] PHP  22. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:28:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:28:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:28:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:28:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:28:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:28:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:28:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:28:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:28:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:28:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:28:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:28:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:29:27 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:29:27 UTC] PHP Stack trace:
+[20-Dec-2019 14:29:27 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:29:27 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:29:27 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:29:27 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:29:27 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:29:27 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:29:27 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:29:27 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:29:27 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:29:27 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:29:28 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:29:28 UTC] PHP Stack trace:
+[20-Dec-2019 14:29:28 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:29:28 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:29:28 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:29:28 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:29:28 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:29:28 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:29:28 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:29:28 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:29:28 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:29:28 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:29:30 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:29:30 UTC] PHP Stack trace:
+[20-Dec-2019 14:29:30 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:0
+[20-Dec-2019 14:29:30 UTC] PHP   2. require() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:17
+[20-Dec-2019 14:29:30 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-blog-header.php:19
+[20-Dec-2019 14:29:30 UTC] PHP   4. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/template-loader.php:13
+[20-Dec-2019 14:29:30 UTC] PHP   5. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:29:30 UTC] PHP   6. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:29:30 UTC] PHP   7. WC_AJAX::do_wc_ajax() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:29:30 UTC] PHP   8. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:87
+[20-Dec-2019 14:29:30 UTC] PHP   9. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:29:30 UTC] PHP  10. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:29:30 UTC] PHP  11. WC_AJAX::get_refreshed_fragments() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:29:30 UTC] PHP  12. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:198
+[20-Dec-2019 14:29:30 UTC] PHP  13. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:29:30 UTC] PHP  14. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:29:30 UTC] PHP  15. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:29:30 UTC] PHP  16. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:29:30 UTC] PHP  17. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:29:30 UTC] PHP  18. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:29:30 UTC] PHP  19. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:29:30 UTC] PHP  20. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:29:30 UTC] PHP  21. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:29:30 UTC] PHP  22. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:30:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:30:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:30:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:30:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:30:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:30:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:30:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:30:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:30:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:30:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:30:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:30:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:31:26 UTC] PHP Stack trace:
+[20-Dec-2019 14:31:26 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:31:26 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:31:26 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:31:26 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:31:26 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:31:26 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:31:26 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:31:26 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:31:26 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:31:26 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:32:22 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:32:22 UTC] PHP Stack trace:
+[20-Dec-2019 14:32:22 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:32:22 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:32:22 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:32:22 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:32:22 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:32:22 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:32:22 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:32:22 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:32:22 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:32:22 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:32:41 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:32:41 UTC] PHP Stack trace:
+[20-Dec-2019 14:32:41 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:0
+[20-Dec-2019 14:32:41 UTC] PHP   2. require() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:17
+[20-Dec-2019 14:32:41 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-blog-header.php:19
+[20-Dec-2019 14:32:41 UTC] PHP   4. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/template-loader.php:13
+[20-Dec-2019 14:32:41 UTC] PHP   5. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:32:41 UTC] PHP   6. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:32:41 UTC] PHP   7. WC_AJAX::do_wc_ajax() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:32:41 UTC] PHP   8. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:87
+[20-Dec-2019 14:32:41 UTC] PHP   9. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:32:41 UTC] PHP  10. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:32:41 UTC] PHP  11. WC_AJAX::get_refreshed_fragments() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:32:41 UTC] PHP  12. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:198
+[20-Dec-2019 14:32:41 UTC] PHP  13. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:32:41 UTC] PHP  14. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:32:41 UTC] PHP  15. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:32:41 UTC] PHP  16. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:32:41 UTC] PHP  17. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:32:41 UTC] PHP  18. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:32:41 UTC] PHP  19. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:32:41 UTC] PHP  20. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:32:41 UTC] PHP  21. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:32:41 UTC] PHP  22. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:30 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:41:30 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:30 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:41:30 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:41:30 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:41:30 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:41:30 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:41:30 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:30 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:30 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:30 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:41:30 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:41:46 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:46 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:46 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:0
+[20-Dec-2019 14:41:46 UTC] PHP   2. require() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/index.php:17
+[20-Dec-2019 14:41:46 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-blog-header.php:19
+[20-Dec-2019 14:41:46 UTC] PHP   4. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/template-loader.php:13
+[20-Dec-2019 14:41:46 UTC] PHP   5. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:46 UTC] PHP   6. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:46 UTC] PHP   7. WC_AJAX::do_wc_ajax() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:46 UTC] PHP   8. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:87
+[20-Dec-2019 14:41:46 UTC] PHP   9. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:46 UTC] PHP  10. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:46 UTC] PHP  11. WC_AJAX::get_refreshed_fragments() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:46 UTC] PHP  12. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/woocommerce/includes/class-wc-ajax.php:198
+[20-Dec-2019 14:41:46 UTC] PHP  13. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:41:46 UTC] PHP  14. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:41:46 UTC] PHP  15. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:46 UTC] PHP  16. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:46 UTC] PHP  17. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:46 UTC] PHP  18. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:46 UTC] PHP  19. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:46 UTC] PHP  20. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:46 UTC] PHP  21. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:46 UTC] PHP  22. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:41:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:41:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:56 UTC] PHP   5. ET_Builder_Custom_Defaults_History->ajax_retrieve_custom_defaults_history() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:56 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/feature/custom-defaults/History.php:90
+[20-Dec-2019 14:41:56 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:41:56 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:41:56 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:41:56 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:56 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:56 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:56 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:56 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:56 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:56 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:56 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:41:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:41:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:56 UTC] PHP   5. ET_Builder_Library->wp_ajax_et_builder_library_get_layouts_data() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:56 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/feature/Library.php:1041
+[20-Dec-2019 14:41:56 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:41:56 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:41:56 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:41:56 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:56 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:56 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:56 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:56 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:56 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:56 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:56 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:58 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:58 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:58 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:41:58 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:41:58 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:58 UTC] PHP   5. et_fb_get_saved_templates() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:58 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:58 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:58 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:58 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:58 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:58 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:58 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:58 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:59 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:59 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:59 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:41:59 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:41:59 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:59 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:59 UTC] PHP   5. et_fb_update_builder_assets() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:59 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:59 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:59 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:59 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:59 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:59 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:59 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:59 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:41:59 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:41:59 UTC] PHP Stack trace:
+[20-Dec-2019 14:41:59 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:41:59 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:41:59 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:59 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:59 UTC] PHP   5. et_fb_update_builder_assets() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:59 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:41:59 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:41:59 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:41:59 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:41:59 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:41:59 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:59 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:41:59 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 795
+[20-Dec-2019 14:42:00 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:00 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:00 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:00 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:00 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:00 UTC] PHP   5. et_pb_process_computed_property() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:00 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:00 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:00 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:00 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:00 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:00 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:00 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:01 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:01 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:01 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:01 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:01 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:01 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:01 UTC] PHP   5. et_fb_get_saved_templates() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:01 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:01 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:01 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:01 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:01 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:01 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:01 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:01 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:02 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:02 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:02 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:02 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:02 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:02 UTC] PHP   5. et_fb_get_saved_templates() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:02 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:02 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:02 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:02 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:02 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:02 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:02 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:02 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:02 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:02 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:02 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:02 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:02 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:02 UTC] PHP   5. et_fb_get_post_types() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:02 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/core.php:4525
+[20-Dec-2019 14:42:02 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:42:02 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:42:02 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:42:02 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:02 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:02 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:02 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:02 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:02 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:02 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:02 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:03 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:03 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:03 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:03 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:03 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP   5. et_fb_get_saved_templates() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP   6. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:03 UTC] PHP   7. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:03 UTC] PHP   8. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP   9. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP  10. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP  11. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  12. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  13. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:03 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:03 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:03 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:03 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:03 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP   5. et_fb_get_posts_list() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/core.php:4585
+[20-Dec-2019 14:42:03 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:42:03 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:42:03 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:42:03 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:03 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:03 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:03 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:03 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:03 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:03 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:03 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP   5. et_fb_get_posts_list() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/core.php:4585
+[20-Dec-2019 14:42:03 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:42:03 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:42:03 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:42:03 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:03 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:03 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:03 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:03 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:03 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:03 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:53 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:42:53 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:53 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:42:53 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:42:53 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:42:53 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:42:53 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:42:53 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:53 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:53 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:53 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:42:53 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:42:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:56 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:56 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:42:56 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:42:56 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:42:56 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:56 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:56 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:56 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:56 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:56 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:56 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:56 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:42:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:42:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:42:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:42:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:42:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:56 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:56 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:42:56 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:42:56 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:42:56 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:42:56 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:42:56 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:42:56 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:42:56 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:42:56 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:56 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:42:56 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:43:46 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:43:46 UTC] PHP Stack trace:
+[20-Dec-2019 14:43:46 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:43:46 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:43:46 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:43:46 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:43:46 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:43:46 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:46 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:46 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:46 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:43:46 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:43:48 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:43:48 UTC] PHP Stack trace:
+[20-Dec-2019 14:43:48 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:43:48 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:43:48 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:48 UTC] PHP   5. et_fb_ajax_save() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:48 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/functions.php:1714
+[20-Dec-2019 14:43:48 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:43:48 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:43:48 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:43:48 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:43:48 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:43:48 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:48 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:48 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:48 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:48 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:48 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:43:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:43:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:43:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:43:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:43:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:56 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:56 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:43:56 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:43:56 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:43:56 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:43:56 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:43:56 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:56 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:56 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:56 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:56 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:56 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:43:56 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:43:56 UTC] PHP Stack trace:
+[20-Dec-2019 14:43:56 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:43:56 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:43:56 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:56 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:56 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:56 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:43:56 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:43:56 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:43:56 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:43:56 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:43:56 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:43:56 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:43:56 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:43:56 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:56 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:43:56 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:44:37 UTC] PHP Warning:  Cannot modify header information - headers already sent in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php on line 25
+[20-Dec-2019 14:44:37 UTC] PHP Stack trace:
+[20-Dec-2019 14:44:37 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:0
+[20-Dec-2019 14:44:37 UTC] PHP   2. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-cron.php:44
+[20-Dec-2019 14:44:37 UTC] PHP   3. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-load.php:37
+[20-Dec-2019 14:44:37 UTC] PHP   4. require_once() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-config.php:79
+[20-Dec-2019 14:44:37 UTC] PHP   5. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-settings.php:523
+[20-Dec-2019 14:44:37 UTC] PHP   6. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:37 UTC] PHP   7. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:37 UTC] PHP   8. BeRocket_LGV->init() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:37 UTC] PHP   9. br_lgv_get_cookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/main.php:232
+[20-Dec-2019 14:44:37 UTC] PHP  10. setcookie() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/gridlist-view-for-woocommerce/includes/functions.php:25
+[20-Dec-2019 14:44:39 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:44:39 UTC] PHP Stack trace:
+[20-Dec-2019 14:44:39 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:44:39 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:44:39 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:39 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:39 UTC] PHP   5. et_fb_ajax_save() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:39 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/functions.php:1714
+[20-Dec-2019 14:44:39 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:44:39 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:44:39 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:44:39 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:44:39 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:44:39 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:39 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:39 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:39 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:39 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:39 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:44:42 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:44:42 UTC] PHP Stack trace:
+[20-Dec-2019 14:44:42 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:44:42 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:44:42 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:42 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:42 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:42 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:44:42 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:44:42 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:44:42 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:44:42 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:44:42 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:42 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:42 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:42 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:42 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:42 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:44:42 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:44:42 UTC] PHP Stack trace:
+[20-Dec-2019 14:44:42 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:44:42 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:44:42 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:42 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:42 UTC] PHP   5. wp_ajax_heartbeat() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:42 UTC] PHP   6. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/includes/ajax-actions.php:3398
+[20-Dec-2019 14:44:42 UTC] PHP   7. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:44:42 UTC] PHP   8. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:44:42 UTC] PHP   9. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:44:42 UTC] PHP  10. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:44:42 UTC] PHP  11. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:44:42 UTC] PHP  12. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:44:42 UTC] PHP  13. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:44:42 UTC] PHP  14. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:42 UTC] PHP  15. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:44:42 UTC] PHP  16. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
+[20-Dec-2019 14:45:02 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, object given in /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php on line 796
+[20-Dec-2019 14:45:02 UTC] PHP Stack trace:
+[20-Dec-2019 14:45:02 UTC] PHP   1. {main}() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:0
+[20-Dec-2019 14:45:02 UTC] PHP   2. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-admin/admin-ajax.php:175
+[20-Dec-2019 14:45:02 UTC] PHP   3. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:45:02 UTC] PHP   4. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:45:02 UTC] PHP   5. et_fb_ajax_save() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:45:02 UTC] PHP   6. wp_send_json_success() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/themes/Divi/includes/builder/functions.php:1714
+[20-Dec-2019 14:45:02 UTC] PHP   7. wp_send_json() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3999
+[20-Dec-2019 14:45:02 UTC] PHP   8. wp_die() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3975
+[20-Dec-2019 14:45:02 UTC] PHP   9. _ajax_wp_die_handler() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:3291
+[20-Dec-2019 14:45:02 UTC] PHP  10. shutdown_action_hook() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:0
+[20-Dec-2019 14:45:02 UTC] PHP  11. do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/load.php:947
+[20-Dec-2019 14:45:02 UTC] PHP  12. WP_Hook->do_action() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/plugin.php:478
+[20-Dec-2019 14:45:02 UTC] PHP  13. WP_Hook->apply_filters() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:312
+[20-Dec-2019 14:45:02 UTC] PHP  14. wp_ob_end_flush_all() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/class-wp-hook.php:288
+[20-Dec-2019 14:45:02 UTC] PHP  15. ob_end_flush() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:45:02 UTC] PHP  16. ShortPixelAI->maybe_replace_images_src() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-includes/functions.php:4552
+[20-Dec-2019 14:45:02 UTC] PHP  17. preg_match() /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/plugins/shortpixel-adaptive-images/inc/short-pixel-ai.class.php:796
