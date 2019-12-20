@@ -1,0 +1,27 @@
+ul#ecommerce-lite-img-container img {
+    width: 50px;
+}
+
+
+.customize-control #ecommerce-lite-img-container li {
+    float: left;
+}
+
+.customize-control #ecommerce-lite-img-container li label {
+    margin-left: 5px;
+}
+
+.customize-control-radio .ecommerce-lite-radio-img-img {
+    border: 3px solid #ff3030;
+    margin: 0 5px 5px 0;
+    cursor: pointer;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+.customize-control-radio .ecommerce-lite-radio-img-selected {
+    border: 3px solid #ff3030;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+}

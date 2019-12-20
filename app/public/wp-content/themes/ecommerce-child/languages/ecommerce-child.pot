@@ -1,0 +1,93 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: eCommerce Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-23 12:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#. 1: Theme name, 2: Theme author.
+#: functions.php:99
+#, php-format
+msgid " %1$s."
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: functions.php:90
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:135
+msgid "Disable Accept Payment"
+msgstr ""
+
+#. Name of the theme
+msgid "eCommerce Child"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"eCommerce Child theme is a child theme of eCommerce Lite WooCommerce "
+"WordPress theme.eCommerce Child is a clean, beautiful and fully customizable "
+"responsive WordPress WooCommerce theme. This theme includes many premium "
+"features and several custom widgets which helps making your online store "
+"professional and well organized.eCommerce Child theme suitable for eCommerce "
+"websites of any store type: fashion, sport, technology, furniture, digitals "
+"etc."
+msgstr ""
+
+#: functions.php:136
+msgid "Enable/Disable Accept Payment."
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://spiderbuzz.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://spiderbuzz.com/wordpress-themes/ecommerce-child/"
+msgstr ""
+
+#: functions.php:87
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:173
+msgid "Payment Method Accepted Sort Desc"
+msgstr ""
+
+#: functions.php:154
+msgid "Payment Method Accepted Title"
+msgstr ""
+
+#: functions.php:86
+msgid "Proudly powered by "
+msgstr ""
+
+#. Author of the theme
+msgid "spiderbuzz"
+msgstr ""
+
+#: functions.php:95
+msgid "Theme: eCommerce Child by"
+msgstr ""
+
+#: functions.php:146
+msgid "We Accept"
+msgstr ""
+
+#: functions.php:165
+msgid ""
+"We accept Cards shown below. We accept these kinds of cards so that our "
+"customer feel easy and quick to pay us."
+msgstr ""

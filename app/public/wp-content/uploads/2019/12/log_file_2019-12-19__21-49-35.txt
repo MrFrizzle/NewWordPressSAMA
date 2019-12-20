@@ -1,0 +1,275 @@
+
+---Upload files---
+Content file was not uploaded. Error: 
+
+---Upload files---
+Customizer file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://samafull-service-digital-marketing-lab.local
+Data file = not defined!
+Widget file = /Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/wp-content/uploads/2019/12/test.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+items : Sidebar does not exist in theme (moving widget to Inactive)
+
+0 - No Title - Site does not support widget
+1 - No Title - Site does not support widget
+2 - No Title - Site does not support widget
+3 - No Title - Site does not support widget
+4 - No Title - Site does not support widget
+5 - No Title - Site does not support widget
+6 - No Title - Site does not support widget
+7 - No Title - Site does not support widget
+8 - No Title - Site does not support widget
+9 - No Title - Site does not support widget
+
+ManufacturerID : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+EmailAddress : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+CompanyName : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+ProductName : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+PriceLevel : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+IncludePricing : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+ShowBranding : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+Message : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+manufacturerSetting : Sidebar does not exist in theme (moving widget to Inactive)
+
+TestMode - No Title - Site does not support widget
+ManufacturerSettingID - No Title - Site does not support widget
+ManufacturerID - No Title - Site does not support widget
+BasePriceName - No Title - Site does not support widget
+PriceLevel1Name - No Title - Site does not support widget
+PriceLevel2Name - No Title - Site does not support widget
+PriceLevel3Name - No Title - Site does not support widget
+PriceLevel4Name - No Title - Site does not support widget
+PriceLevel5Name - No Title - Site does not support widget
+PriceLevel6Name - No Title - Site does not support widget
+PriceLevel7Name - No Title - Site does not support widget
+PriceLevel8Name - No Title - Site does not support widget
+PriceLevel9Name - No Title - Site does not support widget
+OrdersEmail - No Title - Site does not support widget
+OrdersEmailCC - No Title - Site does not support widget
+EmailCustomerReciept - No Title - Site does not support widget
+EmailManufacturerReceipt - No Title - Site does not support widget
+EmailSalesRepReceipt - No Title - Site does not support widget
+FaxOrdersToFactory - No Title - Site does not support widget
+FaxOrdersToCustomer - No Title - Site does not support widget
+ManufacturerFaxNumber - No Title - Site does not support widget
+ColorScheme - No Title - Site does not support widget
+ShowroomIPAddress - No Title - Site does not support widget
+AppendModifierRegEx - No Title - Site does not support widget
+CreatedOn - No Title - Site does not support widget
+CreatedBy - No Title - Site does not support widget
+ModifiedOn - No Title - Site does not support widget
+ModifiedBy - No Title - Site does not support widget
+DeletedOn - No Title - Site does not support widget
+DeletedBy - No Title - Site does not support widget
+IsDeleted - No Title - Site does not support widget
+PriceLevel10Name - No Title - Site does not support widget
+PriceLevel11Name - No Title - Site does not support widget
+PriceLevel12Name - No Title - Site does not support widget
+PriceLevel13Name - No Title - Site does not support widget
+PriceLevel14Name - No Title - Site does not support widget
+PriceLevel15Name - No Title - Site does not support widget
+PriceLevel16Name - No Title - Site does not support widget
+PriceLevel17Name - No Title - Site does not support widget
+PriceLevel18Name - No Title - Site does not support widget
+PriceLevel19Name - No Title - Site does not support widget
+PriceLevel20Name - No Title - Site does not support widget
+PriceLevel0CurrencyCode - No Title - Site does not support widget
+PriceLevel1CurrencyCode - No Title - Site does not support widget
+PriceLevel2CurrencyCode - No Title - Site does not support widget
+PriceLevel3CurrencyCode - No Title - Site does not support widget
+PriceLevel4CurrencyCode - No Title - Site does not support widget
+PriceLevel5CurrencyCode - No Title - Site does not support widget
+PriceLevel6CurrencyCode - No Title - Site does not support widget
+PriceLevel7CurrencyCode - No Title - Site does not support widget
+PriceLevel8CurrencyCode - No Title - Site does not support widget
+PriceLevel9CurrencyCode - No Title - Site does not support widget
+PriceLevel10CurrencyCode - No Title - Site does not support widget
+PriceLevel11CurrencyCode - No Title - Site does not support widget
+PriceLevel12CurrencyCode - No Title - Site does not support widget
+PriceLevel13CurrencyCode - No Title - Site does not support widget
+PriceLevel14CurrencyCode - No Title - Site does not support widget
+PriceLevel15CurrencyCode - No Title - Site does not support widget
+PriceLevel16CurrencyCode - No Title - Site does not support widget
+PriceLevel17CurrencyCode - No Title - Site does not support widget
+PriceLevel18CurrencyCode - No Title - Site does not support widget
+PriceLevel19CurrencyCode - No Title - Site does not support widget
+PriceLevel20CurrencyCode - No Title - Site does not support widget
+ShowRelatedProducts - No Title - Site does not support widget
+HideQtyOnModifiers - No Title - Site does not support widget
+ShowModifierQtyField - No Title - Site does not support widget
+EmailOrderView - No Title - Site does not support widget
+TearSheetView - No Title - Site does not support widget
+PrintOrderView - No Title - Site does not support widget
+InvoiceStart - No Title - Site does not support widget
+InvoiceIncrement - No Title - Site does not support widget
+DefaultExportType - No Title - Site does not support widget
+AcceptCreditCards - No Title - Site does not support widget
+PaymentGatewayType - No Title - Site does not support widget
+GatewayAPIKey - No Title - Site does not support widget
+GatewayAPITransactionKey - No Title - Site does not support widget
+APIPostbackURL - No Title - Site does not support widget
+iPadDetailView - No Title - Site does not support widget
+ImportMappings - No Title - Site does not support widget
+ChildProductsHeaderTitle - No Title - Site does not support widget
+CustomerOrderViewName - No Title - Site does not support widget
+ManufacturerOrderViewName - No Title - Site does not support widget
+RepOrderViewName - No Title - Site does not support widget
+MimimizedOrderViewName - No Title - Site does not support widget
+CustomerWebsite - No Title - Site does not support widget
+WebsiteURL - No Title - Site does not support widget
+ERPCompanyCode - No Title - Site does not support widget
+AutoEnlargeSmallImages - No Title - Site does not support widget
+ShowInventoryQty - No Title - Site does not support widget
+InventoryQuantityLabel - No Title - Site does not support widget
+ShowInventoryStatus - No Title - Site does not support widget
+OrderTypes - No Title - Site does not support widget
+AirPrintOrderTemplate - No Title - Site does not support widget
+AirPrintModifierRowTemplate - No Title - Site does not support widget
+AirPrintDiscountSubTotalTemplate - No Title - Site does not support widget
+AirPrintTableRowTemplate - No Title - Site does not support widget
+AirPrintTableRowNoImagesTemplate - No Title - Site does not support widget
+MarketName - No Title - Site does not support widget
+ThumbnailLabelTemplate - No Title - Site does not support widget
+LargeImageLabelTemplate1 - No Title - Site does not support widget
+LargeImageLabelTemplate2 - No Title - Site does not support widget
+CollectionTemplate1 - No Title - Site does not support widget
+CollectionTemplate2 - No Title - Site does not support widget
+ListAllItemsTemplate1 - No Title - Site does not support widget
+ListAllItemsTemplate2 - No Title - Site does not support widget
+ChildItemsLabelTemplate1 - No Title - Site does not support widget
+ChildItemsLabelTemplate2 - No Title - Site does not support widget
+ItemDetailsTemplate - No Title - Site does not support widget
+FlipbookEnabled - No Title - Site does not support widget
+AutoEPrintOrders - No Title - Site does not support widget
+EPrintEmailAddress - No Title - Site does not support widget
+NumberOfEPrintCopies - No Title - Site does not support widget
+ApplyDiscountsToItemExports - No Title - Site does not support widget
+SplitOrdersOnCatalog - No Title - Site does not support widget
+Terms - No Title - Site does not support widget
+ShipVia - No Title - Site does not support widget
+AllowPricingOverride - No Title - Site does not support widget
+FreightTerms - No Title - Site does not support widget
+CategoryLabel - No Title - Site does not support widget
+AllowWrittenBy - No Title - Site does not support widget
+AllowSetSalesRep - No Title - Site does not support widget
+EnableVolumePricing - No Title - Site does not support widget
+EnableCustomerSpecialPricing - No Title - Site does not support widget
+EnableCustomLandingPage - No Title - Site does not support widget
+CustomLandingPageSettings - No Title - Site does not support widget
+WelcomeWizardStep - No Title - Site does not support widget
+CustomValidationTemplate - No Title - Site does not support widget
+EnableQuickOrderPopover - No Title - Site does not support widget
+OrderEmailSubjectManufacturer - No Title - Site does not support widget
+OrderEmailSubjectRep - No Title - Site does not support widget
+OrderEmailSubjectCustomer - No Title - Site does not support widget
+EnablePriceCodes - No Title - Site does not support widget
+AllowOtherDropDownOption - No Title - Site does not support widget
+TrackInventory - No Title - Site does not support widget
+TrackInventoryOrderTypes - No Title - Site does not support widget
+InfoTabCSS - No Title - Site does not support widget
+ProductNameTemplate - No Title - Site does not support widget
+ItemIDTemplate - No Title - Site does not support widget
+ItemStatus - No Title - Site does not support widget
+InfoTab1Title - No Title - Site does not support widget
+InfoTab1Template - No Title - Site does not support widget
+InfoTab2Title - No Title - Site does not support widget
+InfoTab2Template - No Title - Site does not support widget
+ChildItemsTabTitle - No Title - Site does not support widget
+VolumePricingTabTitle - No Title - Site does not support widget
+OrderItemTemplate1 - No Title - Site does not support widget
+OrderItemTemplate2 - No Title - Site does not support widget
+ItemQuantityTemplate - No Title - Site does not support widget
+ModifierDelimiter - No Title - Site does not support widget
+SearchChildItems - No Title - Site does not support widget
+ExportSettingsXML - No Title - Site does not support widget
+CreditCardApplicationFeeInCents - No Title - Site does not support widget
+ReportsURL - No Title - Site does not support widget
+EnableiPadOrderEditing - No Title - Site does not support widget
+EnableZipCodeLookup - No Title - Site does not support widget
+recentOrderItemTemplate1 - No Title - Site does not support widget
+recentOrderItemTempalte2 - No Title - Site does not support widget
+airPrintHeaderTemplate - No Title - Site does not support widget
+airPrintFooterTemplate - No Title - Site does not support widget
+orderTermsText - No Title - Site does not support widget
+useOrderTems - No Title - Site does not support widget
+udfLabels - No Title - Site does not support widget
+QuickOrderDescriptionTemplate - No Title - Site does not support widget
+ProductPageSize - No Title - Site does not support widget
+airPrintPageNumbers - No Title - Site does not support widget
+ClientInfoTemplate - No Title - Site does not support widget
+EnableApplyDiscount - No Title - Site does not support widget
+forceModifierConfiguration - No Title - Site does not support widget
+ScanItemsTemplate1 - No Title - Site does not support widget
+ScanItemsTemplate2 - No Title - Site does not support widget
+UpchargeChoices - No Title - Site does not support widget
+DeleteOutOfStockItems - No Title - Site does not support widget
+LowInventoryThreshHold - No Title - Site does not support widget
+EnableTax - No Title - Site does not support widget
+TaxRate - No Title - Site does not support widget
+preventGlobalDiscounts - No Title - Site does not support widget
+preventLineItemDiscounts - No Title - Site does not support widget
+hideDoNotShipBefore - No Title - Site does not support widget
+hideOrderNotes - No Title - Site does not support widget
+AllowMarketNameOverride - No Title - Site does not support widget
+IgnoreWrittenFoRepNumbers - No Title - Site does not support widget
+
+priceKey : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+priceLevelName : Sidebar does not exist in theme (moving widget to Inactive)
+
+
+SalesRep : Sidebar does not exist in theme (moving widget to Inactive)
+
+SalesRepID - No Title - Site does not support widget
+CompanyName - No Title - Site does not support widget
+FirstName - No Title - Site does not support widget
+LastName - No Title - Site does not support widget
+EmailAddress - No Title - Site does not support widget
+Password - No Title - Site does not support widget
+PasswordSalt - No Title - Site does not support widget
+CellPhone - No Title - Site does not support widget
+Phone - No Title - Site does not support widget
+Fax - No Title - Site does not support widget
+City - No Title - Site does not support widget
+State - No Title - Site does not support widget
+PostalCode - No Title - Site does not support widget
+LastLoginDate - No Title - Site does not support widget
+LastPasswordChangedDate - No Title - Site does not support widget
+CreatedOn - No Title - Site does not support widget
+CreatedBy - No Title - Site does not support widget
+ModifiedOn - No Title - Site does not support widget
+ModifiedBy - No Title - Site does not support widget
+DeletedOn - No Title - Site does not support widget
+DeletedBy - No Title - Site does not support widget
+IsDeleted - No Title - Site does not support widget
+
+

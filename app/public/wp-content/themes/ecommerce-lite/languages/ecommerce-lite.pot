@@ -1,0 +1,549 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: eCommerce Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-26 15:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:62
+msgid "Primary"
+msgstr ""
+
+#: functions.php:120
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:122 functions.php:133 functions.php:145 functions.php:156
+#: functions.php:167 functions.php:178 functions.php:189
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:131
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: functions.php:143
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:154
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:187
+msgid "Footer 5"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "error image"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:26
+msgid "back to homepage"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. %s: search query.
+#: search.php:25
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:45
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:12
+msgid "WooCommerce"
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:17
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:22
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:27
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:32
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: spiderbuzz/settings/plugin-required-list.php:37
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#. %s: post date.
+#: spiderbuzz/core/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: spiderbuzz/core/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: spiderbuzz/core/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: spiderbuzz/core/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: spiderbuzz/core/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: spiderbuzz/core/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: spiderbuzz/core/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: spiderbuzz/core/template-tags.php:99
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:44
+msgid "Ecommerce Lite: Logo & Header Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:45
+msgid "Logo & Header Customizer Settings."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:57
+msgid "Top Header"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:58
+#: spiderbuzz/customizer/customizer.php:95
+msgid "Top Header All Settings & Control"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:70
+msgid "Enable Top Header"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:71
+msgid "Enable/Disable Top Header."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:84
+msgid "Top Header Text"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:85
+msgid "Type Your Store Address Section."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:94
+msgid "Header , Nav Menu And Search"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:106
+msgid "Enable Header Search Box"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:107
+msgid "Enable/Disable Search box Section."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:119
+msgid "Enable Header Wishlist"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:120
+msgid "Enable/Disable Wishlist Section."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:132
+msgid "Enable Header Add To Cart"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:133
+msgid "Enable/Disable Header Add To Cart."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:145
+msgid "Enable Header User"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:146
+msgid "Enable/Disable Header User Section."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:164
+msgid "Ecommerce Lite: General Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:165
+msgid "All Default Settings."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:181
+#: spiderbuzz/customizer/customizer.php:210
+msgid "Breadcrumbs Section"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:182
+msgid "Breadcrumbs Section Settings And Control"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:193
+msgid "Enable/Disable Breadcrumb Section"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:194
+msgid "Enable/Disable Breadcrumb Section."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:211
+msgid "Upload the Breadcrumbs Section Hear."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:222
+msgid "Archive And Blog Page Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:223
+msgid "Archive & Blog Page All Default Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:234
+msgid "Enable Default Thumbnail Image"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:235
+msgid "Display Feedback Thumbnail Image."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:251
+msgid "Ecommerce Lite: WooCommerce Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:252
+msgid "WooCommerce All Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:258
+msgid "Ecommerce Lite: WooCommerce General Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:259
+msgid "All Default WooCommerce Settings."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:268
+msgid "Add To Cart"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:271
+msgid "Add To Cart Text Change"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:281
+msgid "Ecommerce Lite: Shop Page"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:282
+msgid "Shop page Control Customizer."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:293
+msgid "Products Per Page"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:294
+msgid "Display Number Of Products Per Page"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:306
+msgid "Product gallery thumnbail columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:307
+msgid "Product gallery thumnbail columns."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:313
+#: spiderbuzz/customizer/customizer.php:335
+msgid "2 Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:314
+#: spiderbuzz/customizer/customizer.php:336
+msgid "3 Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:315
+#: spiderbuzz/customizer/customizer.php:337
+msgid "4 Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:316
+#: spiderbuzz/customizer/customizer.php:338
+msgid "5 Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:327
+msgid "Number of Products Column"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:328
+msgid "Display The Number of Shop Page Column."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:334
+msgid "1 Column"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:339
+msgid "6 Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:348
+msgid "Ecommerce Lite: Single Page"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:349
+msgid "Woocommerce Single Page Control Columns."
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:361
+msgid "Related Products Count"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:373
+msgid "Related Products Columns"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:388
+msgid "Ecommerce Lite: Footer Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:389
+msgid "Footer All Settings"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:398
+msgid "Ecommerce Lite: Payment Method Support"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:399
+msgid "Footer Payment Method Support"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:415
+msgid "Payment Method Support"
+msgstr ""
+
+#: spiderbuzz/customizer/customizer.php:416
+msgid "Upload the payment method Support Hear."
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:264
+msgid "User in"
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:264
+msgid "Register"
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:286
+msgid "Share This :"
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:467
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:495
+msgid "Compare"
+msgstr ""
+
+#: spiderbuzz/hooks/woocommerce.php:499
+msgid "Add to Compare"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:23
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:56
+msgid "Home"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:42
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:43
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:44
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:45
+msgid "Author Archive"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:46
+msgid "Blog Archives"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:47
+msgid "Search Results"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:59
+msgid "Blog"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:83
+msgid "X"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:87
+msgid "Search"
+msgstr ""
+
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:373
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:376
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: spiderbuzz/hooks/ecommerce-lite-functions.php:383
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. Name of the theme
+msgid "eCommerce Lite"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"eCommerce Lite is a modern free WooCommerce WordPress theme especially "
+"designed for shops and eCommerce sites. It could be used for all types of "
+"ecommerce online stores, including: Fashion, Shoes, Jewelry, Watch, Sport, "
+"Technology, Mobile... eCommerce Lite is easy to use and fully responsive. It "
+"comes with an eye-catching layout design that will instantly draw the "
+"attention of anyone who visits your website. Theme is translation ready. "
+"eCommerce Lite is SEO friendly helping you to achieve the highest positions "
+"on Google and optimized codebase to maximize your site’s performance and "
+"loading speed. The Theme Customizer is truly magaic tool to customize theme "
+"with pre-defined parameters, no coding is required.  Main theme features: "
+"primary menu positions, search,top banner for promo , shop by category, "
+"right sidebars, custom logo, custom background, breadcrumbs, fast loading, "
+"cross-browser compatibility, font awesome, documentation , support, "
+"bootstrap grid layout. Theme including support for wishlist, quick view and "
+"compare plugins."
+msgstr ""
+
+#. URI of the theme
+msgid ""
+"https://spiderbuzz.com/wordpress-themes/ecommerce-lite-woocommerce-theme/"
+msgstr ""
+
+#. Author of the theme
+msgid "spiderbuzz"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://spiderbuzz.com"
+msgstr ""
