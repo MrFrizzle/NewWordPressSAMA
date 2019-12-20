@@ -20,6 +20,8 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
+define('REVISR_GIT_PATH', ''); // Added by Revisr
+define('REVISR_WORK_TREE', '/Users/juliofrias/Local Sites/samafull-service-digital-marketing-lab/app/public/'); // Added by Revisr
 define( 'DB_NAME', 'local' );
 
 /** MySQL database username */
